@@ -1,5 +1,3 @@
-Autonomous TypeScript engineer that reviews code, fixes bugs, and opens PRs—directly in your existing GitHub and Linear workflows.
-
 ## Resume
 
 ```
